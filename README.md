@@ -1,4 +1,4 @@
-I'm Mani (aka Mava), backend, machine learning & plugin programmer.
+I'm Mani (aka Mava), backend, machine learning & nvim-plugin programmer.
 
 former musician, chemistry dropout, inexorably polymath...
 

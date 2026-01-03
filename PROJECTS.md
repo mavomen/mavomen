@@ -14,11 +14,15 @@
 - C#
   - **[_csdsa_](https://github.com/mavantgarderc/csdsa)**: (Practice repertoire) Data Structure & Algorithms implementation in DotNet 9.0.100.
 
-- Documentations
+- Rust
+  - **_[ZenQuotes](https://github.com/mavantgarderc/ZenQuotes)_**: A minimal Quote fetching tool using [Zen Quotes APIs](https://zenquotes.io/).
+
+- Documentations & Mava-Style Tricks
   - **_[.NET X Linux](https://github.com/mavantgarderc/linuxXdotnet)_**: setup your Linux system to develop .NET.
   - **_[.NET X Neovim](https://github.com/mavantgarderc/nvimXdotnet)_**: setup your Neovim editor to develop .NET.
   - **_[SQLServer X Linux](https://github.com/mavantgarderc/sqlserverXlinux)_**: setup sql-server to work flawlessly on Linux using CLI tools & DBeaver.
   - **_[SQLServer X Neovim](https://github.com/mavantgarderc/sqlserverXnvim)_**: setup your Neovim editor to have the highest functionality possible in Neoevim.
+  - **_[Easy v2ray cli with custom scripts & sing-box]()_**: having local cli commands to handle v2ray (vless) servers by command line & switching fast & easy between them.
 
 ## Bonus
 

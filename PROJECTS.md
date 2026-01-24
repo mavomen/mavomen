@@ -5,6 +5,7 @@
 - Lua & Neovim Plugins
   - **_[Raphael.nvim](https://github.com/mavantgarderc/raphael.nvim)_**: Modern theme management system for Neovim >= 0.10.
   - **_[PrismPunk.nvim](https://github.com/mavantgarderc/prismpunk.nvim)_**: A gigantic horde of WCAG Standards friendly colorschemes, containing comic characters (mostly) DC, Kanagawa, Visual Dopamine Detox, etc. including more than 250 colorschemes.
+  - **_[leetcode.nvim](https://github.com/mavantgarderc/leetcode.nvim)_**: A Neovim tool to do leetcodes within the sweet-home-terminal.
   - **_[OrigaVim](https://github.com/mavantgarderc/nvim)_**: A personal take on "experience everything & craft everything in terminal".
 
 - Python

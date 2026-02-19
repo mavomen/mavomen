@@ -13,7 +13,7 @@
   - **_[Repository Scanner](https://github.com/mavantgarderc/RepositoryScanner)_**: Language-stats SVG Card generated based on your private & public repositories, using the GitHub API and a personal access token.
 
 - C#
-  - **[_csdsa_](https://github.com/mavantgarderc/csdsa)**: (Practice repertoire) Data Structure & Algorithms implementation in DotNet 9.0.100.
+  - **_[csdsa](https://github.com/mavantgarderc/csdsa)_**: (Practice repertoire) Data Structure & Algorithms implementation in DotNet 9.0.100.
 
 - Rust
   - **_[ZenQuotes](https://github.com/mavantgarderc/ZenQuotes)_**: A minimal Quote fetching tool using [Zen Quotes APIs](https://zenquotes.io/).
@@ -23,7 +23,6 @@
   - **_[.NET X Neovim](https://github.com/mavantgarderc/nvimXdotnet)_**: setup your Neovim editor to develop .NET.
   - **_[SQLServer X Linux](https://github.com/mavantgarderc/sqlserverXlinux)_**: setup sql-server to work flawlessly on Linux using CLI tools & DBeaver.
   - **_[SQLServer X Neovim](https://github.com/mavantgarderc/sqlserverXnvim)_**: setup your Neovim editor to have the highest functionality possible in Neoevim.
-  - **_[Easy v2ray cli with custom scripts & sing-box]()_**: having local cli commands to handle v2ray (vless) servers by command line & switching fast & easy between them.
 
 ## Bonus
 
@@ -38,6 +37,7 @@
   - [Dark Phonk, No. 04, focus mode](https://www.youtube.com/watch?v=H9IZSBKeWMk).
   - [Dark Phonk, No. 05, no comfort, only progress.](https://www.youtube.com/watch?v=_CHFV_mt03M).
 
+---
 
 ![Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg)
 

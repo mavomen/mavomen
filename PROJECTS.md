@@ -37,3 +37,7 @@
   - [Dark Phonk, No. 03, focus is gods rise](https://www.youtube.com/watch?v=A4Y5NkmbKco).
   - [Dark Phonk, No. 04, focus mode](https://www.youtube.com/watch?v=H9IZSBKeWMk).
   - [Dark Phonk, No. 05, no comfort, only progress.](https://www.youtube.com/watch?v=_CHFV_mt03M).
+
+
+![Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg)
+

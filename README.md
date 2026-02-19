@@ -2,6 +2,7 @@ MLE Monk, SWE Ronin...
 
 ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-000?logo=gnu-bash&style=flat-square)
+![Lua](https://img.shields.io/badge/-Lua-000?logo=lua&logoColor=00007E&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-000?&logo=Python&style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-000?logo=dotnet&logoColor=7215E9&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=DEA584&style=flat-square)

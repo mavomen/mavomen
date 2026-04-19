@@ -1,4 +1,4 @@
-MLE Monk, SWE Ronin...
+MLE Monk · SWE Ronin · Tooling Blacksmith · Vimjoyer Cavalry
 
 ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-000?logo=gnu-bash&style=flat-square)
@@ -12,3 +12,5 @@ MLE Monk, SWE Ronin...
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED&style=flat-square)
 
 [PROJECTS.md](PROJECTS.md) · [Message me on Telegram](https://t.me/maninava)
+
+> اینجا ایرانه... آف کورس که وقتی LSP رو فیکس میکنیم حس خارجی بودن داریم چون اینترنت گیر سگ نمیاد...

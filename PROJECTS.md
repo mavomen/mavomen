@@ -11,6 +11,7 @@
 - Python
   - **_[Nokhodkhor](https://github.com/mavomen/NokhodKhor)_**: Python implementation of a Pac‑Man–inspired arcade game built as a tribute to the original classic.
   - **_[Repository Scanner](https://github.com/mavomen/RepositoryScanner)_**: GitHub analytics utility that generates a language‑usage SVG card by scanning both public and private repositories via the GitHub API. Authenticated with a personal access token, it aggregates repository statistics and renders a shareable visualization for profile dashboards
+  - **_[Async Fast API Template](https://github.com/mavomen/async-fastapi-template)_**: Modern async FastAPI template with PostgreSQL, Docker, and production-ready patterns. Features async/await support, Pydantic v2 settings, health checks, structured logging, SQLAlchemy 2.0, multi-stage Docker builds, and comprehensive test coverage.
 
 - C#
   - **_[csdsa](https://github.com/mavomen/csdsa)_**: Comprehensive data‑structures and algorithms library for .NET 9.0.113. Implements a wide spectrum of classic and advanced structures & algorithmic modules. Includes an extensive BenchmarkDotNet suite with perf reports & a fully mirrored unit‑test suite covering virtually every method and edge case.

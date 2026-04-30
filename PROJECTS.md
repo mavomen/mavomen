@@ -1,4 +1,4 @@
-# Public Repositories of `@mavantgarderc`
+# Public Repositories of `@mavomen`
 
 ## Projects
 

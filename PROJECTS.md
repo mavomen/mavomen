@@ -23,11 +23,12 @@
     - Configurable system-info section via TOML (kernel, uptime, CPU, RAM, disk, GPU, packages, processes, load avg).
     - No runtime deps beyond small crates; graceful fallback to cached data if offline.
 
-- Documentations & Mava-Style Tricks
-  - **_[.NET X Linux](https://github.com/mavomen/linuxXdotnet)_**: Full Linux + .NET developer environment manual: multi‑SDK, AOT, docker, GC/CLR internals, Omnisharp, CLI workflows.
-  - **_[.NET X Neovim](https://github.com/mavomen/nvimXdotnet)_**: Modular Neovim .NET IDE: Omnisharp, DAP, Neotest, formatting, architecture docs.
-  - **_[SQLServer X Linux](https://github.com/mavomen/sqlserverXlinux)_**: SQL Server on Linux cookbook: installation, security, diagnostics, backup/restore, tuning, GUI/CLI integration.
-  - **_[SQLServer X Neovim](https://github.com/mavomen/sqlserverXnvim)_**: SQL Server development in Neovim: Dadbod stack, SQL LSP, formatting, secure env configs.
+## Documentations & Mava-Style Tricks
+
+- **_[.NET X Linux](https://github.com/mavomen/linuxXdotnet)_**: Full Linux + .NET developer environment manual: multi‑SDK, AOT, docker, GC/CLR internals, Omnisharp, CLI workflows.
+- **_[.NET X Neovim](https://github.com/mavomen/nvimXdotnet)_**: Modular Neovim .NET IDE: Omnisharp, DAP, Neotest, formatting, architecture docs.
+- **_[SQLServer X Linux](https://github.com/mavomen/sqlserverXlinux)_**: SQL Server on Linux cookbook: installation, security, diagnostics, backup/restore, tuning, GUI/CLI integration.
+- **_[SQLServer X Neovim](https://github.com/mavomen/sqlserverXnvim)_**: SQL Server development in Neovim: Dadbod stack, SQL LSP, formatting, secure env configs.
 
 ## Bonus
 

@@ -7,6 +7,7 @@
   - **_[PrismPunk.nvim](https://github.com/mavomen/prismpunk.nvim)_**: High‑density colorscheme framework for Neovim with WCAG‑aware palettes (mythology, punk cultures, comics, etc.). Implements a caching subsystem for fast theme resolution, runtime palette overrides, selective universe loading to reduce startup cost, and automatic terminal palette synchronization for Kitty, Ghostty, and Alacritty.
   - **_[leetcode.nvim](https://github.com/mavomen/leetcode.nvim)_**: Lightweight LeetCode integration for Neovim. Features a floating problem search interface (tags, difficulty, language), and a focused split‑screen workspace that pairs the Markdown problem description with an auto‑generated code template in the selected language. Minimal surface area, clean UX, and designed to stay out of your way while solving.
   - **_[OrigaVim](https://github.com/mavomen/nvim)_**: A personal take on "experience everything & craft everything in terminal".
+  - **_[ZenVim](https://github.com/mavomen/zenvim)_**: A ready-to-use, zen-friendly neovim configuration, made for those foggy days.
 
 - Python
   - **_[Nokhodkhor](https://github.com/mavomen/NokhodKhor)_**: Python implementation of a Pac‑Man–inspired arcade game built as a tribute to the original classic.
@@ -17,11 +18,7 @@
   - **_[csdsa](https://github.com/mavomen/csdsa)_**: Comprehensive data‑structures and algorithms library for .NET 9.0.113. Implements a wide spectrum of classic and advanced structures & algorithmic modules. Includes an extensive BenchmarkDotNet suite with perf reports & a fully mirrored unit‑test suite covering virtually every method and edge case.
 
 - Rust
-  - **_[ZenQuotes](https://github.com/mavomen/ZenQuotes)_**: Rust-based [Zen Quotes APIs](https://zenquotes.io/) CLI with:
-    - Daily quote cache and append-only history (XDG config/cache paths).
-    - Fast commands: today (default), --random, --history, --help.
-    - Configurable system-info section via TOML (kernel, uptime, CPU, RAM, disk, GPU, packages, processes, load avg).
-    - No runtime deps beyond small crates; graceful fallback to cached data if offline.
+  - **_[ZenQuotes](https://github.com/mavomen/ZenQuotes)_**: Rust-based [Zen Quotes APIs](https://zenquotes.io/) CLI with: Daily quote cache and append-only history, TOML cnf file, dependency-free.
 
 ## Documentations & Mava-Style Tricks
 
@@ -29,6 +26,7 @@
 - **_[.NET X Neovim](https://github.com/mavomen/nvimXdotnet)_**: Modular Neovim .NET IDE: Omnisharp, DAP, Neotest, formatting, architecture docs.
 - **_[SQLServer X Linux](https://github.com/mavomen/sqlserverXlinux)_**: SQL Server on Linux cookbook: installation, security, diagnostics, backup/restore, tuning, GUI/CLI integration.
 - **_[SQLServer X Neovim](https://github.com/mavomen/sqlserverXnvim)_**: SQL Server development in Neovim: Dadbod stack, SQL LSP, formatting, secure env configs.
+- **_[ulnar X terminal](https://github.com/mavomen/ulnarXterminal)_**: Terminal ergonomics notes for ulnar nerve & thenar safety: Hyprland, tmux, Kanata, layered keymaps, home‑row mods, mouse‑free navigation, wrist‑strain defense.
 
 ## Bonus
 

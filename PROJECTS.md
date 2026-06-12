@@ -26,7 +26,7 @@
 - **_[.NET X Neovim](https://github.com/mavomen/nvimXdotnet)_**: Modular Neovim .NET IDE: Omnisharp, DAP, Neotest, formatting, architecture docs.
 - **_[SQLServer X Linux](https://github.com/mavomen/sqlserverXlinux)_**: SQL Server on Linux cookbook: installation, security, diagnostics, backup/restore, tuning, GUI/CLI integration.
 - **_[SQLServer X Neovim](https://github.com/mavomen/sqlserverXnvim)_**: SQL Server development in Neovim: Dadbod stack, SQL LSP, formatting, secure env configs.
-- **_[ulnar X terminal](https://github.com/mavomen/ulnarXterminal)_**: Terminal ergonomics notes for ulnar nerve & thenar safety: Hyprland, tmux, Kanata, layered keymaps, home‑row mods, mouse‑free navigation, wrist‑strain defense.
+- **_[ulnar X terminal](https://github.com/mavomen/ulnarXterminal)_**: Terminal ergonomics notes for ulnar nerve & thenar safety: Hyprland, tmux, Kanata, layered keymaps, mouse‑free navigation, wrist‑strain defense.
 
 ## Bonus
 

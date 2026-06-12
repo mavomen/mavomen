@@ -1,6 +1,12 @@
-MLE Monk · SWE Ronin · Tooling Blacksmith · Vimjoyer Cavalry
+MLE Monk · SWE Ronin · Tooling Blacksmith · Vim Cavalry
 
-[PROJECTS.md](PROJECTS.md)
+**Backend & Tooling Engineer — .NET, ML, DX**
+
+[My Public Repositories List](PROJECTS.md)
+
+Independent developer — .NET Core by trade, polyglot building for the love of the game.
+
+Open to Developer Experience Development, Backend & ML Infrastructure roles.
 
 ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-000?logo=gnu-bash&style=flat-square)
@@ -16,4 +22,3 @@ MLE Monk · SWE Ronin · Tooling Blacksmith · Vimjoyer Cavalry
 ![Ansible](https://img.shields.io/badge/Ansible-000?logo=ansible&logoColor=EE0000&style=flat-square)
 ![Obsidian](https://img.shields.io/badge/Obsidian-000?logo=obsidian&logoColor=5C32B2&style=flat-square)
 
-I need it, I build it.

@@ -22,6 +22,7 @@
 - Rust
   - **_[ZenQuotes](https://github.com/mavomen/ZenQuotes)_**: Rust-based [Zen Quotes APIs](https://zenquotes.io/) CLI with: Daily quote cache & append-only history, TOML cnf file. Dependency-free.
   - **_[dsa-spec](https://github.com/mavomen/dsa-spec)_**: A CLI boilerplate generator to grow muscles in DSA by jumping from language to language (currently supporting C#, Python, TypeScript, Rust & Go). Use the auto-generated tests & benchmarks to get your feedback on horrors you wrote...
+  - **_[mushin](https://github.com/mavomen/mushin)_**: "no-mind" CLI for deliberate-practice coding drills — code-snippet typing, spaced-repetition API/signature recall, & vim keystroke-golf, tracked per language.
   <!-- - TODO: hanoi.nvim -->
 
 - TypeScripts

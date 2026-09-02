@@ -19,7 +19,6 @@
 - C#
   - **_[csdsa](https://github.com/mavomen/csdsa)_**: Data‑structures & algorithms library for .NET 9.0.113. Includes an extensive BenchmarkDotNet suite with perf reports & a fully mirrored unit‑test suite covering virtually every method & edge case.
   - **_[Personal Data Autonomy Hub](https://github.com/mavomen/Personal-Data-Autonomy-Hub)_**: A simple productivity terminal to monitor yourself through your days. Included, Custom Heatmaps, GitHub Integrations, Local Ollama Integrations, & more.
-  <!-- - TODO: Renuz -->
 
 - Rust
   - **_[ZenQuotes](https://github.com/mavomen/ZenQuotes)_**: Rust-based [Zen Quotes APIs](https://zenquotes.io/) CLI with: Daily quote cache & append-only history, TOML cnf file. Dependency-free.

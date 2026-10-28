@@ -15,6 +15,7 @@
   - **_[Repository Scanner](https://github.com/mavomen/RepositoryScanner)_**: GitHub analytics utility that generates a language‑usage SVG card by scanning both public & private repositories via the GitHub API. Authenticated with a personal access token, it aggregates repository statistics & renders a shareable visualization for profile dashboards
   - **_[Async Fast API Template](https://github.com/mavomen/async-fastapi-template)_**: Modern async FastAPI template with PostgreSQL, Docker, & production-ready patterns. Features async/await support, Pydantic v2 settings, health checks, structured logging, SQLAlchemy 2.0, multi-stage Docker builds, & comprehensive test coverage.
   - **_[Kanata-Visualizer](https://github.com/mavomen/Kanata-Visualizer)_**: A useful toy-project to make kanata configuration process easier. Single file script to stay portable with no `import` errors.
+  - **_[Kasoku](https://github.com/mavomen/Kasoku)_**: Time-series forecasting framework & benchmark suite for TensorFlow. Implements GRU, LSTM, & temporal-conv (TCN) forecasters behind one API, then measures eager vs `tf.function` vs XLA execution on time, throughput, compile overhead, & memory. Pluggable data sources (CSV, pandas, InfluxDB), output sinks (CSV, JSON, InfluxDB), & a CLI for train, forecast, & benchmark runs.
 
 - C#
   - **_[csdsa](https://github.com/mavomen/csdsa)_**: Data‑structures & algorithms library for .NET 9.0.113. Includes an extensive BenchmarkDotNet suite with perf reports & a fully mirrored unit‑test suite covering virtually every method & edge case.
@@ -24,6 +25,7 @@
   - **_[ZenQuotes](https://github.com/mavomen/ZenQuotes)_**: Rust-based [Zen Quotes APIs](https://zenquotes.io/) CLI with: Daily quote cache & append-only history, TOML cnf file. Dependency-free.
   - **_[dsa-spec](https://github.com/mavomen/dsa-spec)_**: A CLI boilerplate generator to grow muscles in DSA by jumping from language to language (currently supporting C#, Python, TypeScript, Rust & Go). Use the auto-generated tests & benchmarks to get your feedback on horrors you wrote...
   - **_[mushin](https://github.com/mavomen/mushin)_**: "no-mind" CLI for deliberate-practice coding drills — code-snippet typing, spaced-repetition API/signature recall, & vim keystroke-golf, tracked per language.
+  - **_[Renzu](https://github.com/mavomen/renzu)_**: *(design phase)* Local-first distributed observability lab in Rust. Plans instrumented Axum services, an OpenTelemetry pipeline (Collector, Jaeger, Prometheus, Grafana), reproducible fault-injection scenarios, load generation, & a CLI to run experiments & produce diagnostic reports.
   <!-- - TODO: hanoi.nvim -->
 
 - TypeScripts
